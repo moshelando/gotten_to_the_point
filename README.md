@@ -10,5 +10,5 @@ This repository hosts a collection of open-access textbooks.
 - Biology 102
 - Chemistry 101
 - General Chemistry
-- Biotechnology (2 versions)
+- Introductory Biotechnology
 - Anatomy & Physiology
