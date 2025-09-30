@@ -1,0 +1,6 @@
+title: "My Open Textbooks"
+description: "A collection of free and open textbooks"
+theme: minima
+markdown: kramdown
+kramdown:
+  math_engine: katex
