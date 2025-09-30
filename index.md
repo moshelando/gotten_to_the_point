@@ -1,15 +1,19 @@
-# My Open Textbooks
+# Gotten to the Point
 
-Welcome! Here are my textbooks, free and open:
+## Undergrad Texts  
 
-## 📖 Online (Markdown)
-- [Statistics (MAT 107)](md/statistics/)
-- [Biology 102](md/biology/)
+A series of textbooks and notes for STEM undergraduate courses,  
+maximizing clarity and completeness.  
 
-## 📚 PDFs
-- [Book](pdf/Book.pdf)
-- [Biotechnology](pdf/Biotechnology.pdf)
-- [Chemistry 101](pdf/CHEM101.pdf)
-- [General Chemistry](pdf/GeneralChemistry.pdf)
-- [Anatomy and Physiology](pdf/AnatomyPhysiology.pdf)
-- [Introductory Biotechnology](pdf/IntroBiotech.pdf)
+Designed to minimize student frustration.  
+
+---
+
+## 📝 Notes  
+- [Statistics (MAT 107)](md/statistics/)  
+- [Biology (BIO 102)](md/biology/)  
+
+## 📚 Textbooks  
+- [General Chemistry (CHEM 101)](pdf/GeneralChemistry.pdf)  
+- [Anatomy & Physiology (A&P 101)](pdf/AnatomyPhysiology.pdf)  
+- [Introductory Biotechnology (BIOTC 203)](pdf/IntroBiotech.pdf)  
