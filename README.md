@@ -1,13 +1,19 @@
-# My Open Textbooks
+# Gotten to the Point
 
-This repository hosts a collection of textbooks and notes.
+## Undergrad Texts  
 
-- Markdown-based books are in `/md/` and render online via GitHub Pages.
-- PDF textbooks are in `/pdf/` and open directly in browser.
+A series of textbooks and notes for STEM undergraduate courses,  
+maximizing clarity and completeness.  
 
-## Contents
-- Statistics (MAT 107)
-- Biology 102
-- Chemistry 101
-- Introductory Biotechnology
-- Anatomy & Physiology
+Designed to minimize student frustration.  
+
+### Contents
+
+#### 📝 Notes  
+- Statistics (MAT 107)  
+- Biology (BIO 102)  
+
+#### 📚 Textbooks  
+- General Chemistry (CHEM 101)  
+- Anatomy & Physiology (A&P 101)  
+- Introductory Biotechnology (BIOTC 203)  
