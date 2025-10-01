@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
 
+  <!-- GitHub Markdown CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css/github-markdown.min.css">
+
   <!-- KaTeX CSS + JS -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
@@ -15,8 +18,16 @@
       ]
     });"></script>
 
-  <!-- Custom CSS for images -->
   <style>
+    /* Container for GitHub-like styling */
+    .markdown-body {
+      box-sizing: border-box;
+      min-width: 200px;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 45px;
+    }
+
     img {
       max-width: 50%;
       height: auto;
@@ -26,6 +37,8 @@
   </style>
 </head>
 <body>
-  {{ content }}
+  <article class="markdown-body">
+    {{ content }}
+  </article>
 </body>
 </html>
