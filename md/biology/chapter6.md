@@ -1,8 +1,3 @@
----
-layout: default
-title: Statistics (MAT 107 – Chapter 6)
----
-
 # Chapter 6: Photosynthesis and Cellular Respiration
 
 # Overview
