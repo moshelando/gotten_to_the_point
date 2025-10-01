@@ -1,5 +1,6 @@
 title: "Gotten to the Point"
 description: "A series of textbooks and notes for STEM undergraduate courses, maximizing clarity and completeness. Designed to minimize student frustration."
+
 markdown: kramdown
 kramdown:
-  math_engine: katex
+  math_engine: mathjax
