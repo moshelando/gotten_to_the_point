@@ -7,7 +7,7 @@
 The central dogma of life describes the sequence by which genetic instructions in the DNA is ultimately carried out by the cell:
 
 $$
-DNA \rarr mRNA \rarr Protein
+DNA \to mRNA \to Protein
 $$
 
 - Genetic information is stored in the DNA
@@ -65,7 +65,7 @@ There are three types of RNA:
 mRNA undergoes modification before it leaves the nucleus for the ribosomes.
 
 - One such modification is **mRNA splicing**.
-    - DNA contains **introns** - segments ****which do not code for protein and are not part of the gene expression.
+    - DNA contains **introns** - segments - which do not code for protein and are not part of the gene expression.
     - When the mRNA is initially synthesized, the introns are included.
     - During mRNA splicing, the introns are removed, and the remaining **exons** - coding portions - are reattached together.
 
@@ -110,7 +110,7 @@ Example:
 
 ### Codons
 
-- As there are 64 possible codons (4*4*4) and only 20 amino acids, numerous codons code for similar amino acids.
+- As there are 64 possible codons ($4 \times 4 \times 4$) and only 20 amino acids, numerous codons code for similar amino acids.
 - `AUG` is the **start codon**; mRNA strands start with `AUG`. It translates to Methionine.
 - Several codons are the **stop codons**. They do not translate to an amino acid.
 
