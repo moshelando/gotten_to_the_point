@@ -92,7 +92,7 @@
 
 - In an ionic bond, an atom with extra valence electrons transfers them to an atom with missing valence electrons, completing both atoms’ valence shells
     - **Electron Transfer:** Transfer of electrons from one atom to another
-- Each atom is now an **ion:** an ****atom with an uneven amount of protons and electrons
+- Each atom is now an **ion:** an atom with an uneven amount of protons and electrons
     - **Cation:** Ion which lost an electron; is now positive
     - **Anion:** Ion which gained an electron; is now negative
 - As one ion is positive and one negative, they attract and bond, forming an **ionic bond**  - the bond between ions
@@ -124,7 +124,7 @@
 - Measures the acidity of a solution on a scale of 0 - 14
     - < 7: Acid
     - = 7: Neutral
-    - > 7: Basic
+    - \> 7: Basic
 
 **Buffers:**
 
