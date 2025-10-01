@@ -35,8 +35,6 @@ There may be numerous **transition state** steps between the reactants and the f
 
 ### Energy Input and Output
 
-It takes energy to bond molecules. The energy is then stored in the bond as **potential chemical energy.** When the bond is broken, the energy is released.
-
 **Endergonic Reaction:** Reaction in which energy enters the system
 
 - An endergonic reaction cannot occur without external energy input
@@ -60,16 +58,17 @@ Reaction Spontaneity:
 
 - Formula for calculating free energy:
     
-    $$
-    G=H-TS
-    $$
+$$
+G = H - TS
+$$
     
-    where
-    
+- where
+  
     - $G$ refers to the level of Gibbs Free Energy;
     - $H$ refers to the total level of thermodynamic energy;
     - $T$ refers to the temperature; and
     - $S$ refers to the level of entropy.
+
 - Entropy is multiplied by temperature because temperature scales the magnitude of entropy’s effect on energy usefulness.
 
 ---
@@ -165,7 +164,7 @@ Enzymes have optimal operational conditions.
 
 Under non-optimal conditions, enzymatic activity decreases.
 
-Certain conditions can cause **denaturation** - ****an enzyme losing its shape and no longer functioning.
+Certain conditions can cause **denaturation** - an enzyme losing its shape and no longer functioning.
 
 - Temperature Effect: Enzyme activity increases as temperature increases, however, an excessively high temperature can cause denaturation.
 - Concentration Effect: Higher enzyme concentration causes higher enzymatic activity.
