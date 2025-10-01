@@ -165,7 +165,7 @@ This explains the monohybrid cross:
     - Punnett Square for parents with `Aa` and `aa`
         
         
-        | ——————— | `A` | `a` |
+        | | `A` | `a` |
         | --- | --- | --- |
         | `a` | `Aa`  | `aa`  |
         | `a`  | `Aa`  | `aa` |
@@ -212,7 +212,7 @@ This explains the dihybrid cross:
     - As all F1 are `AaBb`, there are four gamete options for each parent.
     - This results in sixteen genotype options for F2:
     
-    | ——————— | `AB` | `Ab` | `aB` | `ab` |
+    | | `AB` | `Ab` | `aB` | `ab` |
     | --- | --- | --- | --- | --- |
     | `AB` | `AABB`  | `AABb` | `AaBB` | `AaBb` |
     | `Ab` | `AABb` | `AAbb` | `AaBb` | `Aabb` |
