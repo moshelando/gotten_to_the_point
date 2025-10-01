@@ -73,9 +73,9 @@ Cells break down glucose to make ATP, and use the ATP as “energy currency”.
 
 - Equation:
     
-    $$
-    \text{Sunlight} + \text{CO} _2 + \text{H} _2 \text{O} \rarr \text{Glucose} + \text{O} _2
-    $$
+$$
+\text{Sunlight} + \text{CO} _2 + \text{H} _2 \text{O} \to \text{Glucose} + \text{O} _2
+$$
     
 - Photosynthesis takes $CO_2$ and $H_2O$, makes glucose, and releases $O_2$
     - The $CO_2$ enters the plant, and the $O_2$ exits the plant, through **stomata** pores
@@ -100,7 +100,7 @@ Cells break down glucose to make ATP, and use the ATP as “energy currency”.
 ### Light Dependent Reaction
 
 1. **Photosystem II (PSII)**
-    - Chlorophyll within **PSII** - ****a protein structure in the thylakoid membrane - absorb sunlight, exciting electrons
+    - Chlorophyll within **PSII** - a protein structure in the thylakoid membrane - absorb sunlight, exciting electrons
     - The excited electrons move to the **primary electron acceptor** in the center of the photosystem
     - The electrons go on to make ATP and join high-energy electron acceptors, which are used to make glucose
     - $H_2O$ is broken to oxygen, $H^+$ protons, and electrons - **photolysis**; the electrons from $H_2O$ replace the electrons in the chlorophyll, the protons are used for the proton gradient to manufacture ATP and are eventually fused with the $CO_2$ to make glucose.
@@ -172,9 +172,9 @@ Process:
 
 - Equation:
     
-    $$
-    \text{Glucose} + \text{O} _2 \rarr \text{CO} _2 + \text{H} _2 \text{O} + \text{ATP}
-    $$
+$$
+\text{Glucose} + \text{O} _2 \to \text{CO} _2 + \text{H} _2 \text{O} + \text{ATP}
+$$
     
 - Cellular respiration takes glucose and oxygen; breaks down the glucose into $CO_2$ and hydrogen, releases the $CO_2$, uses the oxygen to collect the hydrogen and release $H_2O$, and uses the energy released from the glucose to create ATP.
 - Cellular respiration takes place over many steps:
@@ -273,18 +273,16 @@ The oxygen is called the **final electron acceptor**
 - Animals perform **lactic acid fermentation**, converting pyruvates to lactic acid.
     - Equation:
         
-        $$
-        \text{Glucose} \rightarrow 2 \text{ Lactic acid} + 2 \text{ ATP}
-        
-        $$
+$$
+\text{Glucose} \to 2 \text{ Lactic acid} + 2 \text{ ATP}
+$$
         
 - Plants and yeast perform **alcoholic fermentation**, converting pyruvates to ethanol and carbon dioxide.
     - Equation:
         
-        $$
-        \text{Glucose} \rightarrow 2 \text{ Ethanol} + 2 \text{CO}_2 + 2 \text{ ATP}
-        
-        $$
+$$
+\text{Glucose} \to 2 \text{ Ethanol} + 2 \text{CO}_2 + 2 \text{ ATP}
+$$
         
 - The fermentation products are removed from the cell.
 - Lactic acid is sent to the liver and may be turned back into pyruvates
