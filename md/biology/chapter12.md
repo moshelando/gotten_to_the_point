@@ -144,18 +144,14 @@ Types of consumers:
 - An organism’s level within a food chain
     - **Producer:**
         - Bottommost, autotroph
-    - **Primary Consumer:**
+    - **Primary Consumer ($1 ^\circ$):**
         - Eats the producer
-        - `$1\degree$`
-    - **Secondary Consumer:**
+    - **Secondary Consumer ($2 ^\circ$):**
         - Eats the primary consumer
-        - `$2\degree$`
-    - **Tertiary Consumer:**
+    - **Tertiary Consumer ($3 ^\circ$):**
         - Eats the secondary consumer
-        - `$3\degree$`
-    - **Quaternary Consumer:**
+    - **Quaternary Consumer ($4 ^\circ$):**
         - Eats the tertiary consumer
-        - `$4\degree$`
 - In a food web, an organism can have multiple trophic levels; for example, it can be both a primary and secondary consumer
 
 ### Food Chain Pyramids
