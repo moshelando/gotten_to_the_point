@@ -126,6 +126,7 @@ Example: Distance, in miles
 | 6-8 | 5.5-8.5 | 6 |
 | 9-11 | 8.5-11.5 | 2 |
 | 12-14 | 11.5-14.5 | 5 |
+
 - Unlike class limits, where the upper class limit of a class is one less than the lower class limit of the next, the upper class boundary of a class is equal to the lower class boundary of the next
 - Class limits should contain the same number of decimals as the data; class boundaries should contain one more, and generally end in a 5
 - Class boundaries should be halfway between the lower class’s upper limit and the higher class’s lower limit
@@ -184,6 +185,7 @@ Procedure:
     | 18 |
     | 21 |
     | 33 |
+
     1. Lowest value: 18. Highest value: 33.
     2. Range of values: 15
     3. Desired number of classes: 4.
@@ -195,7 +197,7 @@ Procedure:
 
 ### Cumulative Frequency Distribution
 
-**Cumulative Frequency Distribution**: ****Shows frequency of all values ≤ a certain value; generally a class’s upper boundary
+**Cumulative Frequency Distribution**: Shows frequency of all values ≤ a certain value; generally a class’s upper boundary
 
 Example:
 
