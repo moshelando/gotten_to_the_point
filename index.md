@@ -1,11 +1,10 @@
 # Gotten to the Point
 
-## Undergrad Texts  
+## Undergraduate Texts  
 
-A series of textbooks and notes for STEM undergraduate courses,  
-maximizing clarity and completeness.  
+Textbooks and notes for undergraduate STEM courses, emphasizing first-principle reasoning.  
 
-Designed to minimize student frustration.  
+Designed to maximize clarity and completeness, while minimizing student frustration.  
 
 ---
 
