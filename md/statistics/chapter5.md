@@ -97,13 +97,13 @@ $$
 **Expectation:** The expected return from a trial
 
 - Similar formula as mean, however, instead of using the raw output value, it adjusts the output for an expense incurred at input
-    - Example: If a lottery ticket costs \$1 and has a chance of winning \$1000, the mean would calculate the potential results as $0 and $1000; the expectation would adjust for the input cost, and calculate the potential results as -$1 and $999.
+    - Example: If a lottery ticket costs \$1 and has a chance of winning \$1000, the mean would calculate the potential results as \$0 and \$1000; the expectation would adjust for the input cost, and calculate the potential results as -\$1 and \$999.
 
 # Binomial Distribution
 
 ### Binomial Distribution
 
-**Binomial Dist**r**ibution:**
+**Binomial Distribution:**
 
 - Takes a trial repeated identically $n$ times; each trial has two potential outcomes - success or failure; the rate of success for an individual trial is known; calculates the probability that over $n$ trials there will be $X$ successes.
 
