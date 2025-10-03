@@ -154,11 +154,11 @@ $$
 { \frac{\Sigma(X-\mu)^2}{n} }
 $$
     
-    where:
+where:
     
-    - $X$ is the individual data;
-    - $\mu$ is the population mean; and
-    - $n$ is the number of values
+- $X$ is the individual data;
+- $\mu$ is the population mean; and
+- $n$ is the number of values
 
 **Population Standard Deviation** $(\sigma)$**:**
 
