@@ -1,13 +1,13 @@
 title: "Gotten to the Point"
-description: "A series of textbooks and notes for STEM undergraduate courses, maximizing clarity and completeness. Designed to minimize student frustration."
+description: "A series of textbooks and notes for STEM undergrad...ity and completeness. Designed to minimize student frustration."
 
 markdown: kramdown
 
 kramdown:
   input: GFM
   hard_wrap: false
-  math_engine: nil         # don’t let kramdown process math
-  parse_block_html: true   # allow raw HTML inside markdown
+  math_engine: nil         # let MathJax handle the math
+  parse_block_html: true
   syntax_highlighter_opts:
     block:
       line_numbers: false
