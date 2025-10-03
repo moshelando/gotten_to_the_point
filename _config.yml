@@ -1,12 +1,13 @@
 title: "Gotten to the Point"
 description: "A series of textbooks and notes for STEM undergrad...ity and completeness. Designed to minimize student frustration."
 
+# Use GitHub Flavored Markdown, but let MathJax handle all math
 markdown: kramdown
 
 kramdown:
   input: GFM
   hard_wrap: false
-  math_engine: nil         # let MathJax handle the math
+  math_engine: nil          # disables kramdown math processing
   parse_block_html: true
   syntax_highlighter_opts:
     block:
