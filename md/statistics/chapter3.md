@@ -75,19 +75,19 @@ where
 2. Find the ratio of how many values into the group the median is ($\frac {value \space index}{class \space frequency}$)
 3. Apply the ratio to the class width; add to class lower boundary
     
-    Example:
+Example:
     
-    - $n$: 61
-    - Class with $i_{31}$ contains the median
-    - Class “15-20” contains $i_{30}-i_{36}$
-    - $i_{31}$ is 2 values into the class
-    - The class frequency is 7
-    - The ratio of the values into the class the median is is $\frac {2} {7}$
-    - The class width is 5
-    - The applied ratio is $\frac {10}{7}$
-    - The lower boundary is 14.5
-    - With the added $\frac{10}{7}$ we round to 16
-    - Median is: 16
+- $n$: 61
+- Class with $i_{31}$ contains the median
+- Class “15-20” contains $i_{30}-i_{36}$
+- $i_{31}$ is 2 values into the class
+- The class frequency is 7
+- The ratio of the values into the class the median is is $\frac {2} {7}$
+- The class width is 5
+- The applied ratio is $\frac {10}{7}$
+- The lower boundary is 14.5
+- With the added $\frac{10}{7}$ we round to 16
+- Median is: 16
 
 ### Mode
 
@@ -191,7 +191,6 @@ $$
 \sqrt{ \frac{n(\Sigma X^2)-(\Sigma X)^2}{n(n-1)} }
 $$
     
-
 **Grouped Data Standard Deviation:** Class midpoint’s deviation, weighted by class frequency
 
 Shortcut formula:
@@ -264,9 +263,9 @@ $$
 
 - **To find the percentile of a value:**
 
- Calculation: The number of values less than $X$ plus 0.5, over $n$
+Calculation: The number of values less than $X$ plus 0.5, over $n$
     
- Formula:
+Formula:
     
 $$
 (\frac{n_{<x}+0.5}{n}\cdot 100)\%
@@ -275,19 +274,19 @@ $$
 - **To find the value corresponding to a percentile:**
     1. First, find $\frac{n\cdot P}{100}$
     2. If $\frac{n\cdot P}{100}$ is a fraction, round up and find the correspondingly ranked data
-        
-        Formula:
+
+Formula:
 
 $$
 X_{\lceil \frac{n\cdot P}{100} \rceil}
 $$
         
     4. If $\frac{n\cdot P}{100}$ is a whole number, use the average of the value with that rank and the next value
-        
-        Formula:
+
+Formula:
         
 $$
-\operatorname{average}({X_{ \frac{n \cdot P}{100} }, \space X_{ \frac{n \cdot P}{100} +1}})
+\text{average}({X_{ \frac{n \cdot P}{100} }, \space X_{ \frac{n \cdot P}{100} +1}})
 $$
         
 
