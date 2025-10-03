@@ -272,18 +272,18 @@ $$
 $$
 
 - **To find the value corresponding to a percentile:**
-    1. First, find $\frac{n\cdot P}{100}$
-    2. If $\frac{n\cdot P}{100}$ is a fraction, round up and find the correspondingly ranked data
+  - First, find $\frac{n\cdot P}{100}$
+  - If $\frac{n\cdot P}{100}$ is a fraction, round up and find the correspondingly ranked data
 
-Formula:
+  - Formula:
 
 $$
 X_{\lceil \frac{n\cdot P}{100} \rceil}
 $$
         
-    4. If $\frac{n\cdot P}{100}$ is a whole number, use the average of the value with that rank and the next value
+  - If $\frac{n\cdot P}{100}$ is a whole number, use the average of the value with that rank and the next value
 
-Formula:
+  - Formula:
         
 $$
 \text{average}({X_{ \frac{n \cdot P}{100} }, \space X_{ \frac{n \cdot P}{100} +1}})
@@ -334,6 +334,6 @@ Example:
 
 - $\min=3$
 - $Q_1=9$
-- $\operatorname{med}=18$
+- $\text{med}=18$
 - $Q_3=21$
 - $\max = 27$
