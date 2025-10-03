@@ -268,7 +268,7 @@ Calculation: The number of values less than $X$ plus 0.5, over $n$
 Formula:
     
 $$
-\frac { n _{<x} + 0.5 } {n} \cdot 100\%
+\frac { n _{ \< x} + 0.5 } {n} \cdot 100 \%
 $$
 
 - **To find the value corresponding to a percentile:**
