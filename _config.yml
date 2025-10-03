@@ -1,6 +1,15 @@
 title: "Gotten to the Point"
 description: "A series of textbooks and notes for STEM undergraduate courses, maximizing clarity and completeness. Designed to minimize student frustration."
 
+# Use Kramdown (default for GitHub Pages)
 markdown: kramdown
+
 kramdown:
-  math_engine: katex
+  input: GFM
+  hard_wrap: false
+  math_engine: nil   # Important: don't let kramdown handle math
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+theme: minima   # or your theme if you’re overriding with custom layouts
