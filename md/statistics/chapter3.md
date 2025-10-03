@@ -179,13 +179,13 @@ $$
 \sqrt { \frac{\Sigma(X-\overline{X})^2}{n-1} }
 $$
     
-    where:
+where:
     
-    - $X$ is the individual data;
-    - $\overline{X}$ is the population mean; and
-    - $n$ is the number of values
+- $X$ is the individual data;
+- $\overline{X}$ is the population mean; and
+- $n$ is the number of values
     
-    There is a shortcut formula which does not require a precalculated mean:
+There is a shortcut formula which does not require a precalculated mean:
     
 $$
 \sqrt{ \frac{n(\Sigma X^2)-(\Sigma X)^2}{n(n-1)} }
@@ -263,12 +263,11 @@ $$
 **Tweaked Formula:** To obtain a more representative view, we use a tweaked formula:
 
 - **To find the percentile of a value:**
-    
-    Calculation: The number of values less than $X$ plus 0.5, over $n$
-    
-    Formula:
-    
 
+ Calculation: The number of values less than $X$ plus 0.5, over $n$
+    
+ Formula:
+    
 $$
 (\frac{n_{<x}+0.5}{n}\cdot 100)\%
 $$
