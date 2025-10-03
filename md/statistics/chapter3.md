@@ -149,10 +149,10 @@ $$
 - Average squared data point deviation for the population data
 - Measures the distribution spread
 - Formula:
-    
-    $$
-    { \frac{\Sigma(X-\mu)^2}{n} }
-    $$
+
+$$
+{ \frac{\Sigma(X-\mu)^2}{n} }
+$$
     
     where:
     
@@ -175,9 +175,9 @@ $$
 - $(n - 1)$ is used in the denominator instead of $n$
 - Formula:
     
-    $$
-    \sqrt { \frac{\Sigma(X-\overline{X})^2}{n-1} }
-    $$
+$$
+\sqrt { \frac{\Sigma(X-\overline{X})^2}{n-1} }
+$$
     
     where:
     
@@ -187,9 +187,9 @@ $$
     
     There is a shortcut formula which does not require a precalculated mean:
     
-    $$
-    \sqrt{ \frac{n(\Sigma X^2)-(\Sigma X)^2}{n(n-1)} }
-    $$
+$$
+\sqrt{ \frac{n(\Sigma X^2)-(\Sigma X)^2}{n(n-1)} }
+$$
     
 
 **Grouped Data Standard Deviation:** Class midpoint’s deviation, weighted by class frequency
@@ -278,18 +278,18 @@ $$
     2. If $\frac{n\cdot P}{100}$ is a fraction, round up and find the correspondingly ranked data
         
         Formula:
+
+$$
+X_{\lceil \frac{n\cdot P}{100} \rceil}
+$$
         
-        $$
-        X_{\lceil \frac{n\cdot P}{100} \rceil}
-        $$
-        
-    3. If $\frac{n\cdot P}{100}$ is a whole number, use the average of the value with that rank and the next value
+    4. If $\frac{n\cdot P}{100}$ is a whole number, use the average of the value with that rank and the next value
         
         Formula:
         
-        $$
-        \operatorname{average}({X_{ \frac{n \cdot P}{100} }, \space X_{ \frac{n \cdot P}{100} +1}})
-        $$
+$$
+\operatorname{average}({X_{ \frac{n \cdot P}{100} }, \space X_{ \frac{n \cdot P}{100} +1}})
+$$
         
 
 ### Quartiles
