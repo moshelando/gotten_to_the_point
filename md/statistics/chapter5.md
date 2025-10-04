@@ -56,7 +56,7 @@ $$
 
 # Mean, Variance, Standard Deviation, Expectation
 
-### Mea**n**
+### Mean
 
 **Mean:**
 
@@ -97,7 +97,7 @@ $$
 **Expectation:** The expected return from a trial
 
 - Similar formula as mean, however, instead of using the raw output value, it adjusts the output for an expense incurred at input
-    - Example: If a lottery ticket costs $ \$ 1 $ and has a chance of winning $ \$ 1000 $, the mean would calculate the potential results as $ \$ 0 $ and $ \$ 1000 $; the expectation would adjust for the input cost, and calculate the potential results as $ \$ -1 $ and $ \$ 999 $.
+    - Example: If a lottery ticket costs 1 and has a chance of winning 1000, the mean would calculate the potential results as 0 and 1000; the expectation would adjust for the input cost, and calculate the potential results as -1 and 999.
 
 # Binomial Distribution
 
