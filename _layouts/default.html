@@ -8,7 +8,10 @@
   <!-- GitHub Markdown CSS for content styling -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css/github-markdown.min.css">
 
-  <!-- MathJax v3 (same stack GitHub uses) -->
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+  <!-- MathJax v3 -->
   <script>
     window.MathJax = {
       tex: {
@@ -22,45 +25,6 @@
     };
   </script>
   <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
-
-  <style>
-    /* Base content area */
-    .markdown-body {
-      box-sizing: border-box;
-      width: 95%;             /* flexible width for mobile */
-      max-width: 900px;       /* keep it narrower on desktop */
-      margin: 0 auto;
-      padding: 1.5rem;
-      font-size: 18px;        /* good desktop size */
-      line-height: 1.7;
-    }
-
-    /* Responsive adjustments */
-    @media (max-width: 767px) {
-      .markdown-body {
-        padding: 1rem;
-        font-size: 20px;      /* bigger text on mobile */
-      }
-    }
-
-    /* Images inside markdown */
-    .markdown-body img {
-      max-width: 80% !important;  /* allow larger images on small screens */
-      height: auto;
-      display: block;
-      margin: 1em auto;
-    }
-
-    /* MathJax container font size */
-    mjx-container[jax="CHTML"] {
-      font-size: 120% !important;
-    }
-    @media (max-width: 767px) {
-      mjx-container[jax="CHTML"] {
-        font-size: 135% !important; /* bigger math on mobile */
-      }
-    }
-  </style>
 </head>
 <body>
   <article class="markdown-body">
