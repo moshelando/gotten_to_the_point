@@ -1,25 +1,25 @@
 /* Main content area */
 .markdown-body {
   box-sizing: border-box;
-  width: 95%;
-  max-width: 900px;
+  width: 100%;
+  max-width: 100%;
   margin: 0 auto;
   padding: 1.5rem;
-  font-size: 18px;       /* desktop default */
+  font-size: 1rem;       /* base size scales naturally */
   line-height: 1.7;
 }
 
-/* Mobile: bump up base font */
+/* Mobile: adjust spacing and readability */
 @media (max-width: 767px) {
   .markdown-body {
-    font-size: 20px;     /* larger for readability */
+    font-size: 1.1rem;   /* slightly larger text */
     padding: 1rem;
   }
 }
 
 /* Images scale properly */
 .markdown-body img {
-  max-width: 90% !important;
+  max-width: 100% !important;
   height: auto;
   display: block;
   margin: 1em auto;
@@ -31,9 +31,17 @@ mjx-container[jax="CHTML"] {
   line-height: 1.4;
 }
 
-/* Even bigger math on mobile */
+/* Larger math on small screens */
 @media (max-width: 767px) {
   mjx-container[jax="CHTML"] {
     font-size: 140% !important;
   }
+}
+
+/* Optional: make tables scroll horizontally on narrow screens */
+.markdown-body table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
 }
