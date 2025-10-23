@@ -5,15 +5,15 @@
   max-width: 100%;
   margin: 0 auto;
   padding: 1.5rem;
-  font-size: 1rem;       /* base size scales naturally */
+  font-size: 1rem;       /* good desktop & mobile base */
   line-height: 1.7;
 }
 
-/* Mobile: adjust spacing and readability */
+/* Mobile: balanced readability */
 @media (max-width: 767px) {
   .markdown-body {
-    font-size: 1.1rem;   /* slightly larger text */
-    padding: 1rem;
+    font-size: 1.05rem;  /* small, natural bump */
+    padding: 0.8rem;
   }
 }
 
@@ -31,17 +31,26 @@ mjx-container[jax="CHTML"] {
   line-height: 1.4;
 }
 
-/* Larger math on small screens */
+/* Slightly larger math on mobile */
 @media (max-width: 767px) {
   mjx-container[jax="CHTML"] {
-    font-size: 140% !important;
+    font-size: 130% !important;
   }
 }
 
-/* Optional: make tables scroll horizontally on narrow screens */
+/* Tables scroll horizontally if needed */
 .markdown-body table {
   display: block;
   width: 100%;
   overflow-x: auto;
   border-collapse: collapse;
+}
+
+/* Ensure page fits viewport */
+html, body {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
 }
