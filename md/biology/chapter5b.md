@@ -23,7 +23,7 @@
 In a **chemical reaction**, **reactants** are turned into **products.**
 
 - **Anabolic Reaction:** Smaller molecules bond to form larger molecules
-- **Catabolic Reaction:** Larger molecules decompose to form smaller molecules
+- **Catabolic Reaction:** Larger molecules decompose to smaller molecules
 
 **Reaction Pathway**: There may be one or more **transition states** between the reactants and products. The total path of reactants, transition states, and products is the reaction pathway.
 
