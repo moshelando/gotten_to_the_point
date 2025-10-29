@@ -25,12 +25,13 @@ In a **chemical reaction**, **reactants** are turned into **products.**
 - **Anabolic Reaction:** Smaller molecules bond to form larger molecules
 - **Catabolic Reaction:** Larger molecules decompose to smaller molecules
 
-**Reaction Pathway**: There may be one or more **transition states** between the reactants and products. The total path of reactants, transition states, and products is the reaction pathway.
+**Reaction Pathway**: There may be one or more **transition states** between the reactants and products. The sequence of reactants, transition states, and products is the reaction pathway.
 
 ### Energy of Chemical Reactions
 
 **Endothermic reaction:** Reaction where the products have more energy than the reactants.
 - The chemical system absorbs energy from its surroundings.
+
 **Exothermic reaction:** Reaction where the products have less energy than the reactants.
 - The chemical system releases energy to its surroundings.
 
