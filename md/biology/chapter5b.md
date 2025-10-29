@@ -4,72 +4,64 @@
 
 ### Energy
 
-**Energy:** The capacity to do work
+**Energy** is the capacity to do work. Energy is classifed as:
 
-- **Potential Energy:** Stored energy
-    - Such as gravitational, chemical, electrical
-- **Kinetic Energy:** Energy of motion
+- **Potential Energy:** Energy stored in a system due to its location or configuration;
+    - Such as gravitational potential energy for an object at height;
+- **Kinetic Energy:** Energy of a moving object
 
 ### Thermodynamic Laws and Terms
 
-**Thermodynamics:** The study of energy transfer and heat
+**Thermodynamics:** Study of the transfer of energy between systems
 
-**First Law of Thermodynamics (Conservation of Energy):** Energy can be transformed from one form to another, but cannot be destroyed or created
+**First Law of Thermodynamics (Conservation of Energy):** Energy can change forms or be transferred between systems but cannot be created or destroyed.
 
-**Second Law of Thermodynamics:** During every transformation of energy, some energy is dissipated as heat and rendered useless; systems tend towards entropy
+**Second Law of Thermodynamics:** Evey transformation of energy involves some amount of energy dissipation as heat, lowering the amount of useful ordered energy and increasing entropy
 
-**Entropy:** Level of disorder in a system
-
----
-
-# Chemical Reactions
+**Entropy:** Measure of disorder
 
 ### Chemical Reactions
 
 In a **chemical reaction**, **reactants** are turned into **products.**
 
-- **Anabolic Reaction:** smaller molecules are bonded to form larger molecules
-- **Catabolic** **Reaction:** larger molecules are broken into smaller molecules
+- **Anabolic Reaction:** Smaller molecules bond to form larger molecules
+- **Catabolic Reaction:** Larger molecules decompose to form smaller molecules
 
-There may be numerous **transition state** steps between the reactants and the final product.
+**Reaction Pathway**: There may be one or more **transition states** between the reactants and products. The total path of reactants, transition states, and products is the reaction pathway.
 
-### Energy Input and Output
+### Energy of Chemical Reactions
 
-**Endergonic Reaction:** Reaction in which energy enters the system
+**Endothermic reaction:** Reaction where the products have more energy than the reactants.
+- The chemical system absorbs energy from its surroundings.
+**Exothermic reaction:** Reaction where the products have less energy than the reactants.
+- The chemical system releases energy to its surroundings.
 
-- An endergonic reaction cannot occur without external energy input
+A reaction's **spontenaity** depends two factors:
+- **$\Delta H$:** The change in energy
+    - Systems tend to the configuration with the lowest energy; exothermic reactions are favored
+- **$\Delta S$:** The change in entropy
+    - Entropy tends to increase
+    - The affect of entropy change is scaled by temperature; at higher temperature, there is a stronger tend to greater energy
 
-**Exergonic Reaction:** Reaction in which energy exits the system
+**Gibbs Free Energy:** Describes the total spontenaity of a reaction by comparing the affects of the changes in energy and entropy:
 
-- Since the reaction does not require external energy, it happens **spontaneously**, meaning, without an external energy input
-    - Note: Although the reaction itself does not take energy, it does require energy in order to be activated - **activation energy**
-
-**Coupled reaction:** Exergonic reaction paired with endergonic reaction; the exergonic reaction provides the energy for the endergonic reaction
-
-### Gibbs Free Energy
-
-Reaction Spontaneity:
-
-- If the level of energy within a system after a reaction is *higher* than the level of energy before the reaction, the reaction requires energy input, and will not happen spontaneously.
-- If the level of energy within a system after a reaction is *lower* than the level of energy before the reaction, the reaction does not require energy input, and will happen spontaneously.
-- “Energy” is this context specifically refers to **free energy** - usable energy. Due to entropy, a portion of energy is unusable, and does not contribute towards the energy calculated for the reaction.
-
-**Gibbs Free Energy:**
-
-- Formula for calculating free energy:
-    
 $$
-G = H - TS
+\Delta G = \Delta H - T \Delta S
 $$
-    
+
 - where
   
-    - $G$ refers to the level of Gibbs Free Energy;
-    - $H$ refers to the total level of thermodynamic energy;
-    - $T$ refers to the temperature; and
-    - $S$ refers to the level of entropy.
+    - $\Delta G$ is the total change in Gibbs free energy;
+    - $\Delta H$ is the change in energy due to exchange with surroundings;
+    - $T$ is temperature; and
+    - $\Delta S$ is the change in entropy.
 
-- Entropy is multiplied by temperature because temperature scales the magnitude of entropy’s effect on energy usefulness.
+**Exergonic Reaction:** Reaction where $\Delta G$ is negative; occurs spontaneously
+- Although the actual change from reactants to products does not require energy and occurs spontaneously, the reaction still requires **activation energy** to occur
+**Endergonic Reaction:** Reaction where $\Delta G$ is positive; does not occur spontaneously
+
+**Coupled reaction:** Exergonic reaction paired with endergonic reaction
+- The exergonic reaction provides energy for the endergonic reaction
 
 ---
 
@@ -77,26 +69,27 @@ $$
 
 ### Metabolism
 
-Cells require energy
+**Metabolism:** The set of chemical reactions that occur within a cell
 
 Energy circle of life:
 
-- Plants get energy from the sun and store the energy in sugars.
-- Animals digest the sugars and store the energy in ATP
-- When energy is needed, the energy is quickly released from the ATP.
+- Complex molecules such as sugars have greater energy than their simple components.
+- A reaction that forms a complex molecule from simpler components is endergonic and absorbs energy.
+- A reaction that breaks down a complex molecule to its simpler components is exogonic and releases energy.
+- Plants absorb energy from the sun and use this energy to build sugars, storing the energy as chemical potential energy in the sugar's chemical bonds.
+- Cells obtain this energy by breaking down the sugars.
+- The released energy is stored in ATP, which the cell can readily use as a source of energy.
 
-**Metabolism:** The totality of all the chemical reactions within a cell
-
-**Metabolic pathway:** The series of reaction reactants undergo from the reactant state through the transition state to the product state
+**Metabolic pathway:** The reaction pathway of a metabolic reaction
 
 - **Anabolic Pathway:**
-    - Bonds are formed
-    - Energy is required
+    - Builds complex molecules from simpler ones
+    - Absorbs energy
 - **Catabolic Pathway:**
-    - Bonds are broken
-    - Energy is released
+    - Breaks complex molecules to simpler ones
+    - Releases energy
 
-In general, biological bonds are formed through **dehydration synthesis** and are broken through **hydrolysis**.
+Many chemical bonds in biological systems are formed through **dehydration synthesis** and broken through **hydrolysis**.
 
 ---
 
