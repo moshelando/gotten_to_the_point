@@ -4,26 +4,25 @@
 
 ### DNA Overview
 
-**DNA** stores the genetic information.
+**DNA** is a macromolecule that stores genetic information.
 
-In eukaryotes, the DNA is in the nucleus.
-
-In prokaryotes, which don’t have a nucleus, the DNA is in the cytoplasm, in the nucleoid region.
+- In eukaryotes, DNA is in the nucleus.
+- Prokaryotes lack a nucleus. Their DNA is in the nucleoid region of the cytoplasm.
 
 ### Nucleic Acids
 
 **Nucleic Acids:**
 
 - DNA and RNA are nucleic acids.
-- Nucleic acids are polymers. Their monomer is nucleotides.
+- Nucleic acids are polymers, composed of **nucleotide** monomers.
 
 **Nucleotide:**
 
 - Nucleotides have three components:
     - Pentose sugar monosaccharide
-        - In DNA, the pentose sugar is **deoxyribose**; DNA stands for deoxyribonucleic acid.
-        - In RNA, the pentose sugar is **ribose**. RNA stands for ribonucleic acid.
-            - The difference between ribose and deoxyribose is that ribose has a hydroxyl attached to carbon 2’, while deoxyribose has only a hydrogen attached to carbon 2’
+        - **Deoxyribose** in DNA (deoxyribonucleic acid)
+        - **Ribose** in RNA (ribonucleic acid)
+            - Ribose has a hydroxyl on carbon 2'; deoxytibose has a hydrogen
     - Phosphate group
     - Nitrogenous base
 
