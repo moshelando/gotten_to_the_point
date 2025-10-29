@@ -35,7 +35,7 @@ In a **chemical reaction**, **reactants** are turned into **products.**
 **Exothermic reaction:** Reaction where the products have less energy than the reactants.
 - The chemical system releases energy to its surroundings.
 
-A reaction's **spontenaity** depends two factors:
+A reaction's **spontenaity** depends on two factors:
 - **$\Delta H$:** The change in energy
     - Systems tend to the configuration with the lowest energy; exothermic reactions are favored
 - **$\Delta S$:** The change in entropy
