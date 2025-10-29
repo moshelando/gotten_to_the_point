@@ -57,6 +57,7 @@ $$
 
 **Exergonic Reaction:** Reaction where $\Delta G$ is negative; occurs spontaneously
 - Although the actual change from reactants to products does not require energy and occurs spontaneously, the reaction still requires **activation energy** to occur
+
 **Endergonic Reaction:** Reaction where $\Delta G$ is positive; does not occur spontaneously
 
 **Coupled reaction:** Exergonic reaction paired with endergonic reaction
