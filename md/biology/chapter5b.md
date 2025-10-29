@@ -10,8 +10,6 @@
     - Such as gravitational potential energy for an object at height;
 - **Kinetic Energy:** Energy of a moving object.
 
-### Thermodynamic Laws and Terms
-
 **Thermodynamics:** Study of the transfer of energy between systems
 
 **First Law of Thermodynamics (Conservation of Energy):** Energy can change forms or be transferred between systems but cannot be created or destroyed.
