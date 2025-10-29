@@ -28,17 +28,18 @@
 
 **Nucleotide Types:**
 
-- The phosphate and sugar are identical in all DNA molecules and all RNA molecules, however, the nitrogenous base differs between different types of DNA and RNA.
-- Both DNA and RNA have four types of bases. They have three in common, and differ in the fourth:
-    - In common:
-        - **A (Adenine)**
-        - **C (Cytosine)**
-        - **G (Guanine)**
-    - DNA:
-        - **T (Thymine)**
-    - RNA:
-        - **U (Uracil)**
-
+- There are four types of DNA nucleotides and four types of RNA nucleotides.
+- Among the four DNA nucleotides, all share the same phosphate group and pentose sugar, but differ in the nitrogenous base. Similarily, the four RNA nucleotides have the same phosphate grop and pentose sugar but different nitrogenous bases.
+- DNA and RNA share three of their four bases, and differ in the fourth.
+- Both have:
+    - **A (Adenine)**
+    - **C (Cytosine)**
+    - **G (Guanine)**
+- DNA has:
+    - **T (Thymine)**
+- RNA has:
+    - **U (Uracil)**
+  
 ### Polymerization
 
 **Polynucleotide:** Polymer chain of multiple nucleotides 
