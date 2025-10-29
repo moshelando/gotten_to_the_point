@@ -8,7 +8,7 @@
 
 - **Potential Energy:** Energy stored in a system due to its location or configuration;
     - Such as gravitational potential energy for an object at height;
-- **Kinetic Energy:** Energy of a moving object
+- **Kinetic Energy:** Energy of a moving object.
 
 ### Thermodynamic Laws and Terms
 
