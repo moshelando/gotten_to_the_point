@@ -7,7 +7,9 @@
 **Energy** is the capacity to do work. Energy is classifed as:
 
 - **Potential Energy:** Energy stored in a system due to its location or configuration;
+
     - Such as gravitational potential energy of an object at height;
+
 - **Kinetic Energy:** Energy of a moving object.
 
 **Thermodynamics:** Study of the transfer of energy between systems
@@ -23,6 +25,7 @@
 In a **chemical reaction**, **reactants** are turned into **products.**
 
 - **Anabolic Reaction:** Smaller molecules bond to form larger molecules
+
 - **Catabolic Reaction:** Larger molecules decompose to smaller molecules
 
 **Reaction Pathway**: There may be one or more **transition states** between the reactants and products. The sequence of reactants, transition states, and products is the reaction pathway.
@@ -30,16 +33,23 @@ In a **chemical reaction**, **reactants** are turned into **products.**
 ### Energy of Chemical Reactions
 
 **Endothermic reaction:** Reaction where the products have more energy than the reactants.
+
 - The chemical system absorbs energy from its surroundings.
 
 **Exothermic reaction:** Reaction where the products have less energy than the reactants.
+
 - The chemical system releases energy to its surroundings.
 
 A reaction's **spontenaity** depends on two factors:
+
 - **$\Delta H$:** The change in energy
+
     - Systems tend to the configuration with the lowest energy; exothermic reactions are favored
+
 - **$\Delta S$:** The change in entropy
+
     - Entropy tends to increase
+
     - The affect of entropy change is scaled by temperature; at higher temperature, there is a stronger tend to greater energy
 
 **Gibbs Free Energy:** Describes the total spontenaity of a reaction by comparing the affects of the changes in energy and entropy:
