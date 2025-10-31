@@ -155,27 +155,27 @@ where
 
 **Feedback Inhibition:**
 
-- Self regulatory process within a metabolic pathway
-- A later step in the pathway creates an inhibitor which inhibits the enzyme from an earlier step, preventing the pathway from repeating
+- Self-regulaotry mechanism within some metabolic pathways
+- A downstream step in the pathway forms an inhibitor that inhibits an upstream step, preventing the pathway from repeating
 
-### Factors of Enzyme Functionality
+### Factors that Affect Enzyme Function
 
-Enzymes have optimal operational conditions.
+- Enzymes have specific optimal operational conditions.
+- Under non-optimal conditions, enzymatic activity decreases.
+- Certain conditions can cause **denaturation**, where an enzyme loses its shape and ceases to function
 
-Under non-optimal conditions, enzymatic activity decreases.
+Factors:
 
-Certain conditions can cause **denaturation** - an enzyme losing its shape and no longer functioning.
-
-- Temperature Effect: Enzyme activity increases as temperature increases, however, an excessively high temperature can cause denaturation.
-- Concentration Effect: Higher enzyme concentration causes higher enzymatic activity.
-- pH Effect: Each enzyme has an optimal pH range; most are between 6 and 8. Higher or lower pH levels will decrease enzymatic activity and may cause denaturation.
-- Presence of cofactors and coenzymes
-
-**Cofactors, Coenzymes:**
-
-- Molecules which assist an enzyme in catalyzing a reaction
-- Cofactors are non-organic; coenzymes are organic.
-
+- Temperature: Enzyme effectiveness increases with increases temperature; however, excessive temperature can cause denaturation
+- Concentration: Increased enzyme concentration increases reaction rate
+- pH:
+    - Each enzyme has an optimal range of pH
+    - Most are between 6 and 8
+    - pH out of the optimal range decreases enzyme function and can cause denaturation
+- Presence of cofactors, coenzymes, or other enzyme modulators such as inhibitors
+    - **Cofactors, Coenzymes:**
+        - Increase an enzyme's activity
+        - Coenzymes are organic molecules; cofactors are inorganic molecules
 ---
 
 # Schematics
