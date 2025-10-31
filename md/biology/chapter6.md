@@ -111,8 +111,8 @@ Many chemical bonds in biological systems are formed through **dehydration synth
 **Enzyme:** Organic catalyst
 
 - The enzyme is not consumed by the reaction, remains unchanged, and is reusable.
-- Enzymes are generally protein
-- Nomenclature: Generally end with `-ase`
+- Enzymes are a type of protein
+- Nomenclature: Generally ends with `-ase`
     - Example: “Urease” is an enzyme that catalyzes “urea”
 
 Components:
