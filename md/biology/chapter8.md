@@ -1,4 +1,4 @@
-# Chapter 7: Cell Division
+# Chapter 8: Cell Division
 
 # Cell Division Introduction and Overview
 
