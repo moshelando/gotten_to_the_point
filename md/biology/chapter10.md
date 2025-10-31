@@ -1,4 +1,4 @@
-# Chapter 9: DNA Structure and Replication
+# Chapter 10: DNA Structure and Replication
 
 # DNA
 
