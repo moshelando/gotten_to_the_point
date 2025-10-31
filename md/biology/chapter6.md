@@ -61,16 +61,21 @@ $$
 - where
   
     - $\Delta G$ is the total change in Gibbs free energy;
+
     - $\Delta H$ is the change in energy due to exchange with surroundings;
+
     - $T$ is temperature; and
+
     - $\Delta S$ is the change in entropy.
 
 **Exergonic Reaction:** Reaction where $\Delta G$ is negative; occurs spontaneously
+
 - Although the actual change from reactants to products does not require energy and occurs spontaneously, the reaction still requires **activation energy** to occur
 
 **Endergonic Reaction:** Reaction where $\Delta G$ is positive; does not occur spontaneously
 
 **Coupled reaction:** Exergonic reaction paired with endergonic reaction
+
 - The exergonic reaction provides energy for the endergonic reaction
 
 ---
