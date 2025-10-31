@@ -1,4 +1,4 @@
-# Chapter 6: Photosynthesis and Cellular Respiration
+# Chapter 7: Photosynthesis and Cellular Respiration
 
 # Overview
 
