@@ -50,9 +50,9 @@ A reaction's **spontenaity** depends on two factors:
 
     - Entropy tends to increase
 
-    - The affect of entropy change is scaled by temperature; at higher temperature, there is a stronger tend to greater energy
+    - The affect of entropy change is scaled by temperature; at higher temperature, there is a stronger tend to greater entorpy
 
-**Gibbs Free Energy:** Describes the total spontenaity of a reaction by comparing the affects of the changes in energy and entropy:
+**Gibbs Free Energy:** Describes the total spontenaity of a reaction by combining the affects of the changes in energy and entropy:
 
 $$
 \Delta G = \Delta H - T \Delta S
