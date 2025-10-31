@@ -1,4 +1,4 @@
-# Chapter 10: From DNA to Protein
+# Chapter 11: From DNA to Protein
 
 # Overview
 
