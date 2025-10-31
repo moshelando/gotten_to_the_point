@@ -1,4 +1,4 @@
-# Chapter 5b: Energy and Enzymes
+# Chapter 6: Energy and Enzymes
 
 # Thermodynamics
 
