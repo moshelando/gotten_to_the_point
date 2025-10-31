@@ -97,9 +97,14 @@ Many chemical bonds in biological systems are formed through **dehydration synth
 
 ### Catalyst
 
-**Activation energy:** Amount of energy needed to start a chemical reaction
+**Activation energy:** Energy required to initiate a chemical reaction
+- To change from reactants to products, the reactants must first enter a **transition state**, which is less stable and has higher energy than both the reactants and products.
+- The energy needed for the products to reach the transition state is the activation energy
+- This is generally provided by the kinetic energy of the reactants
 
-**Catalyst:** Substance that speeds up a reaction by reducing the amount of necessary activation energy
+**Catalyst:** Substance that increases the rate of a reaction without being consumed
+- A catalysts increases the rate of a reaction by lowering the amount of activation energy needed
+- The catalysts lowers the amount of activation energy needed by stabilizing the transition state
 
 ### Enzyme
 
