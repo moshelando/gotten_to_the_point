@@ -1,4 +1,4 @@
-# Chapter 5a: Cell Membrane Transport
+# Chapter 5: Cell Membrane Transport
 
 # Cell Membrane
 
