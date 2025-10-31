@@ -141,14 +141,17 @@ where
 
 **Inhibitor:** 
 
-- Molecule that inhibits an enzyme from facilitating its reaction
-    - **Competitive Inhibition:** A non-substrate molecules inhibits the enzyme by bonding with the active site, “competing” with the substrate and taking its spot
-    - **Non-Competitive Inhibition:** A molecule inhibits the enzyme by bonding to it - generally to an allosteric site, not the activation site - and causing it to change its active site’s shape and no longer fit the substrate
+- Inhibitors are molecules that prevent an enzyme from catalyzing its reaction
+- The cell uses inhibitors to control the formation of products
+- Classes of inhibation:
+    - **Competitive inhibition:** The inhibitor bonds to the enzyme's active site, "competing" with the substrate and using up the active site
+    - **Non-competitive inhibition:** Instead of bonding to the active site, the inhibitor bonds to a different site, which causes the enzyme to change shape and no longer fit the substrate
 
 **Allosteric Site:**
 
-- Area on enzyme where non-substrate molecules can bond
-- Can enhance or inhibit the enzyme’s functionality by changing its shape
+- Part of an enzyme where **allosteric effectors** bond
+- Allosteric effectors are not substrate; instead, they regulate the enzyme by bonding to it and changing its shape
+- Allosteric effectors can enhance the enzyme or inhibit it, as is non-competitive inhibition
 
 **Feedback Inhibition:**
 
