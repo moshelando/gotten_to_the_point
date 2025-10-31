@@ -1,4 +1,4 @@
-# Chapter 8: Trait Inheritance
+# Chapter 9: Trait Inheritance
 
 # Introduction
 
