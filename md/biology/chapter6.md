@@ -117,15 +117,14 @@ Many chemical bonds in biological systems are formed through **dehydration synth
 
 Components:
 
-- **Substrate:** Reactants of the reaction the enzyme is catalyzing
-- **Product:** Product of the reaction
-- The substrate bonds with the enzyme’s **active site**, creating an **enzyme-substrate complex (ES)**.
-- Each enzyme is tailored for a specific chemical reaction; the shape of the enzyme’s active site matches the shape of the substrates.
-    - **Induced-Fit Model:**
-        - Current theory about the how the active site first the substrate:
-        - The active site is not initially a perfect fit, but, upon contact from the substrate, the enzyme slightly changes shape to snug the substrate
+- The reactants bond to the enzyme, undergo the reaction, and the products are released
+- **Substrate:** Term for the reactants that bond to the enzyme
+- **Enzyme-substrate complex (ES):** Term for the entity formed by a substrate bonding to an enzyme
+- **Active site:** The part of the enzyme the substrate bonds to
+- Each enzyme is tailored for a specific chemical reaction; the active site is configured to match the substrate
+    - **Induced-fit model**: Current theory stating that the active site in an enzyme does not initially fit its substrate; rather, upon initial contact with the substrate, the enzyme conformes to fit it
 
-Enzymatic reaction formula:
+Generic equation for enzymatic reaction:
 
 $$
 E+S \rightarrow ES \rightarrow E+P
@@ -133,10 +132,10 @@ $$
 
 where
 
-- $E$ refers to the enzyme;
-- $S$ refers to the substrate;
-- $ES$ refers to the enzyme-substrate complex; and
-- $P$ refers to the product.
+- $E$ is the enzyme;
+- $S$ is the substrate;
+- $ES$ is the enzyme-substrate complex; and
+- $P$ is the product.
 
 ### Inhibitors
 
