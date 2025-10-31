@@ -7,7 +7,7 @@
 **Energy** is the capacity to do work. Energy is classifed as:
 
 - **Potential Energy:** Energy stored in a system due to its location or configuration;
-    - Such as gravitational potential energy for an object at height;
+    - Such as gravitational potential energy of an object at height;
 - **Kinetic Energy:** Energy of a moving object.
 
 **Thermodynamics:** Study of the transfer of energy between systems
