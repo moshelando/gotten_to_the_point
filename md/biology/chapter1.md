@@ -1,5 +1,7 @@
 # Chapter 1: Introduction to Biology
 
+---
+
 # Science
 
 ### Scientific Method
@@ -35,13 +37,9 @@
 
 ### Reasoning
 
-**Inductive Reasoning:**
-
-- Forming a general principle based on a specific observation
-
-**Deductive Reasoning:**
-
-- Deducing a specific statement from a general principle
+Classes of reasoning:
+    - **Inductive Reasoning:** Formalizing a general principle from a specific instance
+    - **Deductive Reasoning:** Deducing a specific instance from a general principle
 
 ---
 
