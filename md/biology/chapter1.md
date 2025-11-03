@@ -6,46 +6,32 @@
 
 **Science:**
 
-- Study of the laws by which a system fundamentally operates
+- Study of the fundamental laws underlying a system's behavior
 
 **Scientific method:**
 
-- Method of studying science through observation and testing
-- Scientific method steps:
-    1. Observing a phenomena
-    2. Posing a question
-    3. Suggesting a hypothesis
-    4. Making a prediction
-    5. Performing an experiment
-    6. Concluding a result
+- Method of practicing science based on observation and experiment
+- Steps:
+    - Observe a phenomena
+    - Pose a query about the phenomena
+    - Suggest a hypothesis which answers the question and explains the phenomena
+        - The hypothesis must be testable and falsifiable; otherwise, it cannot be verified through the scientific method by surviving experimental testing.
+    - Make a prediction based on the hypothesis
+    - Perform an experiment to test the prediction
+    - If the prediction fails, reject the hypothesis
+    - If the prediction succeeds, do not reject the hyposthesis
+    - **Theory:** A hypothesis that survives multiple varied experiments
+    - **Principle / Scientific Law:** Theory that is accepted by the scientific community
 
-**Hypothesis:**
-
-- Untested theory proposed to explain a phenomena
-- Must be testable and falsifiable
-
-**Variable:**
-
-- A factor that can vary
-    - **Independent variable:** Variable that is not affected by other factors in the experiment; directly controlled
-    - **Dependent variable:** Variable that is affected by other factors in the experiment; not directly controlled
-
-**Experiment Design:**
-
-- Experiments consist of two groups:
-    - **Control Group:**
-        - Not treated with the hypothesized treatment; used for comparison
-    - **Treatment Group:**
-        - Treated with the hypothesized treatment
-    - If a dependent variable varies between the control group and the treatment group, it can be assumed that it is dependent on the independent variable with which only the treatment group was treated
-
-**Theory:**
-
-- Hypothesis not rejected by experimentation
-
-**Scientific Law / Principle:**
-
-- Widely accepted theory
+**Experiment Design**
+- An experiment has two variables:
+    - **Independent variable:** Variable that is directly controlled by the experiment administrator and is not dependent on other factors within the experiment
+    - **Dependent variable:** Variable that is not directly controlled by the experiment administrator and is dependent on other factors within the experiment
+    - The prediction claims that a certain change in the independent variable will cause a certain result in the dependent variable
+    - **Treatment group:** Group that is treated with the changed independent variable
+    - **Control group:** Group that is left neutral and not treated with the changed independent variable
+        - Used as a reference for the treatment group 
+    - If the dependent variable varies between the treatment group and control group as predicted by the prediction, the hypothesis survives the test
 
 ### Reasoning
 
