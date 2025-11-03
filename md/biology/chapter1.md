@@ -1,7 +1,5 @@
 # Chapter 1: Introduction to Biology
 
----
-
 # Science
 
 ### Scientific Method
@@ -40,8 +38,6 @@
 Classes of reasoning:
     - **Inductive Reasoning:** Formalizing a general principle from a specific instance
     - **Deductive Reasoning:** Deducing a specific instance from a general principle
-
----
 
 # Biology
 
