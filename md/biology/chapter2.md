@@ -2,61 +2,53 @@
 
 # Chemistry
 
-### Atoms; Subatomic Particles
+### Atoms
 
-- **Atoms:** Most basic unit of matter. Composed of protons, neutrons and electrons.
-    - **Nucleus:** Located in the center of an atom. Contains protons and neutrons.
-        - **Proton:** Positively charged subatomic particle; located in nucleus
-        - **Neutron:** Neutrally charged subatomic particle; located in nucleus
-        - **Electron:** Negatively charged subatomic particle; orbits nucleus
+- All matter is composed of **atoms**.
+    - Atoms are composed of **protons**, **neutrons**, and **electrons**.
+    - Protons and neutrons are located in the dense **nucleus** in the center of the atom. The rest of the atom is occupied by electrons, which orbit the nucleus.
+    - Protons are positively charged. Electrons are negatively charged. Neutrons have no charge. The magnitude of a proton's positive charge is equal to that of the electron's negative charge.
 
-### Element
+### Elements
 
-**Element:**
+- Many substances can be separated into simpler substances.
+- Elements are the most basic substances.
+- The defining feature of an element is the number of protons in the nueclei of its atoms, which is the element's **atomic number**.r
 
-- Simplest substance
-- An atom is the smallest entity that has all characteristics of an element
-
-### Number of Subatomic Particles
+### Number of Protons, Neutrons, and Electrons in an Atom
 
 **Protons:**
+- Each element has a unique number of protons in its atoms.
 
-- An element’s **atomic number** is its number of protons in its atoms
-- Each element has a unique number of protons; the number of protons is what gives each element its unique properties
+**Neutrons:**
+- Atoms of an element can have varied numbers of neutrons.
+- Each variation is an **isotope** of the element.
 
 **Electrons:**
 
-- An element naturally has an equal number of protons and electrons, making its total charge neutral.
-
-**Neutrons:**
-
-- An element can have a varied number of neutrons.
-- **Isotope:**
-    - Specific variation of an element based on its neutron count
+- A neutral atom has the same number of electrons as protons.
+- Atoms can lose, gain, or share electrons. This is the foundation of chemistry.
 
 **Atomic Mass:**
 
-- An individual atom’s mass is the tally of its protons and neutrons
-- As atoms of an element have isotopes with varied numbers of neutron, they do not have identical masses
-- **Atomic Mass:**
-    - An element’s average mass based on the natural distribution of its isotopes
+- The atomic mass of a specific atom is the number of its protons and neutrons.
+- Since the isotopes of an element have different numbers of neutrons, they have different atomic masses.
+- The atomic mass of an element is the average of the atomic masses of its atoms, weighted by the natural distribution of its isotopes.
 
 ### Periodic Table
 
-**Periodic Table:**
+The **periodic table** lists the elements:
+    
+![Untitled](Untitled.png)
 
-- Lists the elements
+For each element, it gives the element's name, atomic number, atomic symbol, and atomic mass. For example, the following cell lists carbon:
     
-    ![Untitled](Untitled.png)
-    
-- Legend:
-    
-    ![Untitled](Untitled%201.png)
-    
-    - Atomic number: 6
-    - Element: Carbon
-    - Symbol: `C`
-    - Atomic mass: 12.011
+![Untitled](Untitled%201.png)
+
+- Atomic number: 6
+- Element name: Carbon
+- Atomic symbol: `C`
+- Atomic mass: 12.011
 
 ### Electrons
 
