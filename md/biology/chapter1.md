@@ -85,7 +85,7 @@ Classes of reasoning:
 
 ### Hierarchical Organization of Life
 
-The composition of living things exhibits a hierarchical organization
+The composition of living things exhibits a hierarchical organization:
 - Higher levels arise from specific arrangements of lower ones
 - **Emergent properties:** Properties that arise at higher levels of organization and are not identifiable in the simpler components at lower levels.
 
