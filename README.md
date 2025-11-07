@@ -1,4 +1,4 @@
-# Gotten to the Point
+# Crystal Clear STEM
 
 ## Undergrad Texts  
 
